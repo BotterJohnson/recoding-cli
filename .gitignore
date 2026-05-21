@@ -5,7 +5,12 @@
 # Go
 bin/
 vendor/
+recoding-cli
+recoding-cli.exe
 
 # OS
 .DS_Store
 Thumbs.db
+
+# Config (secrets)
+configs/local.yaml
